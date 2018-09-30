@@ -9,5 +9,6 @@
 
 window.LOCAL_CONFIG = {
   // API_HOME: 'http://127.0.0.1:3001/api',
-  API_HOME: 'http://112.124.103.171:3001/api'
+  // API_HOME: 'http://112.124.103.171:3001/api'
+  API_HOME: 'https://112.124.103.171:3002/api'
 };
